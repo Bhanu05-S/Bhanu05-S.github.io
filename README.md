@@ -50,6 +50,8 @@ Before moving into analytics, I spent close to 2 years managing 3,000+ visa appl
 - Designed DAX measures, custom columns, and drill-through navigation to uncover approval trends, work visa patterns, and regional insights
 - Created multi-page reports with KPIs, slicers, and bookmarks for dynamic, stakeholder-friendly analysis
 
+#### 📊 Power BI & SQL
+
 **2️⃣ Europe Visa Analytics Dashboard (Sweden, Spain, Netherlands)**
 - Built an interactive Power BI dashboard analyzing 480K+ visa application records across three countries (2015–2025), grounded in real domain knowledge from visa operations
 - Designed 10+ DAX measures (Approval Rate %, Refusal Rate %, YoY Growth %, COVID Recovery Rate %) and translated them into equivalent SQL views for cross-platform reproducibility
